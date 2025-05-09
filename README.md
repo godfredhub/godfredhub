@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 - 🎓 Currently learning web development, cybersecurity, and blockchain technology.
-- 👯 Open to collaborate on youth-focused tech and anti-fraud projects.
+- 🧑🏾‍🤝‍🧑🏾 Open to collaborate on youth-focused tech and anti-fraud projects.
 - 🌱 Next 3 months: Launch MoMoGuard, grow my dev skills, build my CV.
 - 🧠 Fun fact: I started coding using just my phone!
 
@@ -19,7 +19,8 @@
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)
 
 ## 📬 Reach Me
-**nanaowusugodfred06@gmail.com**
+<p align="center"><strong>nanaowusugodfred06@gmail.com</strong></p>
+
 ## 🤝 Connect With Me
 
 <p align="center">
