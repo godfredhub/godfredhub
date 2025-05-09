@@ -1,4 +1,7 @@
-# Hi there 👋 I'm Godfred Nana Owusu
+<!-- Animated Intro -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=450&lines=Hi+there+%F0%9F%91%8B+I'm+Godfred+Nana+Owusu;Web+Dev+%7C+Cybersecurity+%7C+Blockchain+Explorer;Building+Tech+That+Protects+and+Empowers" alt="Typing animation" />
+</p>
 
 ## 🚀 About Me
 - 🎓 Currently learning web development, cybersecurity, and blockchain technology.
@@ -16,7 +19,7 @@
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)
 
 ## 📬 Reach Me
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:godfredowusu47@gmail.com)
+**nanaowusugodfred06@gmail.com**
 
 ## 🤝 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/godfrednanaowusu-264a10263)
