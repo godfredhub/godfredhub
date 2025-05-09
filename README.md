@@ -20,10 +20,18 @@
 
 ## 📬 Reach Me
 **nanaowusugodfred06@gmail.com**
-
 ## 🤝 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/godfrednanaowusu-264a10263)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Godfred06)
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/godfrednanaowusu-264a10263">
+    <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="36" />
+  </a>
+  &nbsp;
+  <a href="https://x.com/Godfred06">
+    <img src="https://img.shields.io/badge/Follow%20on-X-000000?style=for-the-badge&logo=twitter&logoColor=white" height="36" />
+  </a>
+</p>
+
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats-git-main-4oyn.vercel.app/api?username=nanashub&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-git-main-4oyn.vercel.app/api?username=godfredhub&show_icons=true&theme=tokyonight)
