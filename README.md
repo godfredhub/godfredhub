@@ -31,7 +31,3 @@
     <img src="https://img.shields.io/badge/Follow%20on-X-000000?style=for-the-badge&logo=twitter&logoColor=white" height="36" />
   </a>
 </p>
-
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats-git-main-4oyn.vercel.app/api?username=godfredhub&show_icons=true&theme=tokyonight)
