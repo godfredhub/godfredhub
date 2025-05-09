@@ -16,9 +16,9 @@
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
 
 ## 📫 How to reach me
-- Email: godfredowusu47@gmail.com
-- LinkedIn: [www.linkedin.com/in/godfrednanaowusu-264a10263](https://www.linkedin.com/in/godfrednanaowusu-264a10263)
-- Twitter: [https://x.com/Godfred06](https://x.com/Godfred06)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:godfredowusu47@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/godfrednanaowusu-264a10263)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/Godfred06)
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nanashub&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nanashub&show_icons=true&theme=tokyonight)
